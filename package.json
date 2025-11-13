@@ -1,0 +1,23 @@
+{
+  "name": "techmatrix-ai",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd techmatrix-ai && npm run dev",
+    "build": "cd techmatrix-ai && npm run build",
+    "start": "cd techmatrix-ai && npm run start",
+    "lint": "cd techmatrix-ai && npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ragul26061999/Techmatrix-AI.git"
+  },
+  "keywords": ["nextjs", "react", "typescript", "ai"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ragul26061999/Techmatrix-AI/issues"
+  },
+  "homepage": "https://github.com/Ragul26061999/Techmatrix-AI#readme"
+}
