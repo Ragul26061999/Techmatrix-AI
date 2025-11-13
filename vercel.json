@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd techmatrix-ai && npm install && npm run build",
+  "outputDirectory": "techmatrix-ai/.next",
+  "installCommand": "cd techmatrix-ai && npm install",
+  "framework": "nextjs",
+  "rootDirectory": "techmatrix-ai"
+}

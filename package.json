@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "cd techmatrix-ai && npm run dev",
-    "build": "cd techmatrix-ai && npm run build",
+    "build": "cd techmatrix-ai && npm install && npm run build",
     "start": "cd techmatrix-ai && npm run start",
     "lint": "cd techmatrix-ai && npm run lint"
   },
